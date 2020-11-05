@@ -31,8 +31,8 @@ const (
     </style>
   </head>
   <body>
-    <img id="logo" src="img/c2000logo.svg" alt="C2000 logo" width=400 />
-    <h1>Hello world testing team!</h1>
+    <img id="logo" src="img/spoxxlogo.svg" alt="SPOXX logo" width=400 />
+    <h1>Hello world class APP team!</h1>
     <h3>My hostname is {{.Hostname}}</h3>`
 
 	webServices = `{{- $length := len .Services }} 
